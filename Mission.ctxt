@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Mission(int)
+comment1.params=position\ result
+comment1.target=void\ setMissionResult(int,\ int)
+comment2.params=
+comment2.target=int[]\ results()
+comment3.params=
+comment3.target=boolean\ missionPass()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ r
+comment0.target=Player(java.lang.String,\ Role)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=
+comment2.target=Role\ getRole()
+numComments=3

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=numPlayers\ names\ roles
+comment0.target=AvalonGame(int,\ java.lang.String[],\ Role[])
+comment1.params=
+comment1.target=void\ displayRoles()
+comment2.params=n\ p
+comment2.target=void\ doMission(int,\ java.util.ArrayList)
+comment3.params=
+comment3.target=void\ displayMissionLeader()
+comment4.params=n
+comment4.target=java.util.ArrayList\ chooseMissionMembers(int)
+comment5.params=
+comment5.target=boolean\ checkForEndgame()
+comment6.params=
+comment6.target=void\ gameResults()
+comment7.params=
+comment7.target=void\ postGame()
+numComments=8

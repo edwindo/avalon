@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=n
+comment1.target=Role[]\ generateRandomRoles(int)
+comment2.params=numPlayers\ mission
+comment2.target=int\ missionValidator(int,\ int)
+numComments=3
